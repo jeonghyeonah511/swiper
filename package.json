@@ -1,0 +1,29 @@
+{
+  "name": "reactidswiper-demo",
+  "version": "1.0.0",
+  "description": "react-id-swiper demo for bug reporting",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-yuki/ui": "0.0.33",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-id-swiper": "2.4.0",
+    "react-scripts": "3.2.0",
+    "styled-components": "4.3.2",
+    "swiper": "5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
